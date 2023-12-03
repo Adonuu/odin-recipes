@@ -1,0 +1,20 @@
+/* this is the styling used for all the recipes since they follow the same format */
+h1 {
+    color: white;
+    text-align: center;
+}
+
+body {
+    background-color: gray;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h2 {
+    text-decoration: underline;
+}
